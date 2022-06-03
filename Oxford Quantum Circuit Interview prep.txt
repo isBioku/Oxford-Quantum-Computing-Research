@@ -1,0 +1,108 @@
+
+
+What is a quantum computers,.,, Well Quantum physics describes the behaviour of atoms and fundamental particles like  electron and photon. So, quantum computers operates by controlling the behaviour of this particles but in a way that is completely different from our normal computers 
+
+While normal computers operates on the principle of logical gates of zero and 1, Quantum computers operates on the principle of predisposition, entanglement and Interference.
+
+Quantum computers is not just a more powerful version classical computers, and we cannot build a quantum computer by building  more sophisticated classical computers because they are operating on 2 different logics.
+
+Quantum computers have the potential to impact the most pact of our lives from security, to health and medicals 
+
+Difference between a classical computer and quantum computer computer 
+
+1.A classical computer simulates heads or tails of a coin as a bit(zero or 1) … A quantum computer has a more fluid non binary Identity as it can exist in a superposition state or a combination of zero and 1. With some more probability of being zero and some more probability of being 1. In other word, it’s identity is on a SPECTRUM…. The key idea is that we have to give up on the constant and precise value of zero and 1 and allow for some uncertainty
+
+
+
+The usefulness of Quantum computers
+
+1. Quantum computers can be used to create a private keys for the encryption of messages from one location to the other so that hacker could not secretly copy the key perfectly because of quantum uncertainty or predisposition… They would have to break the law of quantum physics to hack the key
+
+2.Quantum computers could also transform healthcare and medicine. For example, The design and analysis of molecules for drug development is a challenging problem today. This is because perfectly describing and calculating all of the quantum properties of all the atom in the molecule is a computationally difficult tasks even for super computers. But a quantum computers could do better because it operates using the same quantum properties as the molecule it tries to simulate . So future large scale quantum simulation for drug development could perhaps lead to the treatment for diseases like Alzheimers. 
+
+3.Teleportation of information from one point to the other without physically transmitting the information. Because of the fluid identities of quantum particles can get entangled across space and time in such a way that whe you change something about one particle, it can impact the other and that creates channel for teleportation and this could be part of the future quantum internet. There is nothing like that actually but as of 2019, shohini Ghose and team are working on  quantum internet by simulating a quantum network on a quantum computer and they have designed a new protocol such as teleportation among different users in the network that can be used for secured voting. 
+
+
+Why would you like to work with Oxford Quantum circuits … I am motivated by the mysteries of the nature, to reveal more about the hidden world outside our experiences. It is amazing that we humans with our relatively limited access to the universe can still see far beyond our horizons by just using our imagination and our ingenuity and the universe rewards us by showing us incredibly interesting and surprising thing it is. The future is fundamentally uncertain and to me that is certainly exciting. 
+
+
+
+
+
+
+What is Qubits : Qubits represents the basic unit of information and it is the fundamental building block of quantum computers. It is the power behind the spectrum concept of Quantum computers. Which makes Quantum computers to exist in superposition(2 states at the same time)… The ground and the excited states are called the secretes quantum Electrodynamics
+
+
+Aqubit is also a quantum mechanical system that under some suitable circumstances can be treated as having only 2 quantum levels and when you have that, you can  use it to encode quantum information In a similar way that you would on a classical computer where you encode information in a 2 possible way of a transistor on or off. But on a qubit you can use its quantum property of it being a quantum 2 level system so you can have things like a quantum super position of state, you can entangle multiple qubits and this gives access to exponentially larger computational space, than you would have on a classical computer /…. The most simple quantum computer is the spin 
+
+
+It is said that Quantum operates by controlling the fundamental particles ion, electron, photon.. this is made possible by what is called the ion trap
+
+Qubit has 3 different states if we look at it wholly, the ground state, the excited state and the superposition state. All of these 3 states are quite important to fully understand the concept of quantum computation but the most important is the superposition state where we have the combination of 0 and 1
+
+Resonator : We can use a resonator to measure a qubit. And a resonator is the combination of inductance and a capacitance… So if you measure a resonator, You get a resonance.
+
+What is quantum Computers 
+
+#
+
+Even though we enjoy the benefits of classical computing system almost every day, there are certain size and amount of problems that would take an impractical amount of time for the current type of computing system to solve 
+
+Current computers manipulates bits which stores information in as binary 0 and 1…. I mean, all the operations of the computer are based on the operations of zero and ones … As good as this may be, It may not be able to solve some deep problems. And thus the concept of quantum computer which emanates from quantum physics on the behaviours of atom and molecule. 
+
+
+The current computer can either make decisions based on 1 or 0, but not both quantum computer would be like spinning with a higher probability of being either 1 or zero. Although it does not have to choose 1 …. This allows quantum computers to look into many different variables. 
+
+
+Good news is that Quantum computers would be able to solve bigger and more complex problems quicker and faster from hundreds of thousands of years to merely a second. 
+
+Quantum computers are very fragile and needs to be isolated from heat and vibration 
+
+1 quantum computer is kept cool at 0.015 kelvin or about 180 time colder than intersteller state.
+
+Although, quantum computers promised to power exciting advances such as better batteries or new diseases curing medicines … Conventional computers will still be the easiest and most economic solutions for tackling most problems 
+
+
+Things that the normal computer may not be able to do: 
+1.Optimization 
+Chemistry
+
+Quantum Algorithms 
+Grover’s Algorithm
+Deuthsch-Jozsa Algorithm
+Learning parity with noise 
+Phase estimation algorithm
+Shor’s Algorithm 
+
+
+
+Superposition
+Entanglement 
+And Interference
+
+So basically, Quantum computing creates new possibilities and new ways to approach problem that classical computers have problems doing.
+
+
+Learn Gates
+Where grad students could be useful in quantum computing ::: I think it is by going to try it out near term application that only going to be found by trying these things out.
+
+
+And Gate
+Or Gate
+Nor Gate
+Xor Gate 
+
+
+Quantum Computer Gate: Hadamard and phase gate
+
+Quantum computing is all about explaining the strange and complicated rules that governs small objects to rapidly perform strange and complicated calculations. 
+
+
+How to do white box and black box testing
+
+
+Agile software development refers to software development methodologies centered around the idea of iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams. The ultimate value in Agile development is that it enables teams to deliver value faster, with greater quality and predictability, and greater aptitude to respond to change.
+
+Agile methodologies refers to the software development methodologies which is centred around the idea of iterative development where the requirements and solution evolve through self-organizing cross functional team. 
+
+The basic manifesto of Agile methodologies is that, it helps to deliver software faster, with greater quality and predictability and greater attitude to respond to change. 
